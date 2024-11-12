@@ -1,5 +1,16 @@
 {
-  "name": "swag-demo-api",
+  "name": "caca",
   "version": "1.0.0",
-  "description": "swag demo API"
+  "description": "",
+  "main": "quote/index.js",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "@azure/functions": "^4.0.0"
+  },
+  "devDependencies": {
+    "azure-functions-core-tools": "^4.x"
+  }
 }
